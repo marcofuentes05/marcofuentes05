@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### I'm a junior Full -Stack developer based on Guatemala City, Guatemala
+
+
+##### BIO
+
+- 🏢 I'm currently working at **Devpack Group**
+- 🏢 I'm studying Engineering in Computer Science and IT at **Universidad del Valle de Guatemala**
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.py`, `.sh`
+- 🌍 I'm mostly active within the **React Native news**
+- 🌱 Learning all about **Neural Networks and its applications**
+- 📫 Reach me: [twitter.com/mrpictureframe](https://twitter.com/mrpictureframe)
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
