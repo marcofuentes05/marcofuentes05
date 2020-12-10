@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 - 🌱 Learning all about **Neural Networks and its applications**
 - 📫 Reach me: [twitter.com/mrpictureframe](https://twitter.com/mrpictureframe)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=marcofuentes05.marcofuentes05)
