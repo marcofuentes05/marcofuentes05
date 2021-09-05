@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ##### BIO
 
-- 🏢 I'm currently working at **Devpack Group** and **Startrack**.
-- 🏢 I'm studying Engineering in Computer Science and IT at **Universidad del Valle de Guatemala**
+- 💼 I'm currently working at **Devpack Group** and **Startrack**.
+- 🧠 I'm studying Engineering in Computer Science and IT at **Universidad del Valle de Guatemala**
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.py`, `.sh`
 - 🌍 I'm mostly active within the **React Native news**, **Typescript** and **React**
 - 🌱 Learning all about **Data Science and Big Data**
