@@ -39,5 +39,3 @@ Here are some ideas to get you started:
   <a href="https://github.com/marcofuentes05"><img src="https://github-readme-stats.vercel.app/api?username=marcofuentes05&show_icons=true" /></a>
   <a href="https://github.com/marcofuentes05"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcofuentes05&layout=compact" height="195" /></a>
 </div>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=marcofuentes05.marcofuentes05&left_color=green&right_color=red)
